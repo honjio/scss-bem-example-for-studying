@@ -1,0 +1,15 @@
+{
+  "name": "scss-bem-example-for-studying",
+  "version": "1.0.0",
+  "description": "This project for studying.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node-sass -w --output-style expanded scss/style.scss css/style.css"
+  },
+  "author": "fujino-yuki",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
