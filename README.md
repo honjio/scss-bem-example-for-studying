@@ -1,4 +1,4 @@
-# scss-bem-example-for-studying
+# SCSS example for studying
 
 ## Let's make scss project !
 
